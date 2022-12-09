@@ -14,7 +14,7 @@ int main()
                 printf(("|_+_"));
             else if ((a%2==0)&&(a==b))
                 printf(("|_-_"));
-            else if((a!=b));
+            else((a!=b));
                 printf(("    "));
         }
         printf("\n");
