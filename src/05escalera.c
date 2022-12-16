@@ -4,7 +4,7 @@ int main()
 {
     int a=0, b=0, esc=0;
     printf("ingrese el numero de escalones que desea: ");
-    scanf("%u", &esc);
+    scanf("%i", &esc);
 
     for (a = 1; a <= esc; a++)
     {
